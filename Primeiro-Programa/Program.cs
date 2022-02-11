@@ -3,10 +3,12 @@
             
         static void Main()
         {
-            double x = 20.323;
-            Console.WriteLine(x.ToString("F1"));
-            Console.WriteLine(x.ToString("C"));
-            Console.WriteLine(x.ToString("P"));
+            Console.WriteLine("Qual seu nome?");
+            String nome = Console.ReadLine();
+            Console.WriteLine("Quantos anos você tem?");
+            int idade = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Seu nome é {0} e sua idade é de {1}", nome, idade);
         }
     }
 }
