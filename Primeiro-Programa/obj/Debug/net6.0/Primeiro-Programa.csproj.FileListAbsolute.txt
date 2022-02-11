@@ -1,0 +1,15 @@
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\Primeiro-Programa.exe
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\Primeiro-Programa.deps.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\Primeiro-Programa.runtimeconfig.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\Primeiro-Programa.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\ref\Primeiro-Programa.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\bin\Debug\net6.0\Primeiro-Programa.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.csproj.AssemblyReference.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.AssemblyInfo.cs
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\ref\Primeiro-Programa.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Primeiro-Programa\obj\Debug\net6.0\Primeiro-Programa.genruntimeconfig.cache
