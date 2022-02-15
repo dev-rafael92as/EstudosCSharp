@@ -1,0 +1,15 @@
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.AssemblyInfo.cs
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\CursoCSharpAvancado.exe
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\CursoCSharpAvancado.deps.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\CursoCSharpAvancado.runtimeconfig.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\CursoCSharpAvancado.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\ref\CursoCSharpAvancado.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\bin\Debug\net6.0\CursoCSharpAvancado.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.csproj.AssemblyReference.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\ref\CursoCSharpAvancado.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\CursoCSharpAvancado\CursoCSharpAvancado\obj\Debug\net6.0\CursoCSharpAvancado.genruntimeconfig.cache

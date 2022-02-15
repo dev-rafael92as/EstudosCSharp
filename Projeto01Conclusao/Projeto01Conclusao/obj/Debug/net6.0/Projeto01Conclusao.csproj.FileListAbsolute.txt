@@ -1,0 +1,14 @@
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\Projeto01Conclusao.exe
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\Projeto01Conclusao.deps.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\Projeto01Conclusao.runtimeconfig.json
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\Projeto01Conclusao.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\ref\Projeto01Conclusao.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\bin\Debug\net6.0\Projeto01Conclusao.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.AssemblyInfoInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.AssemblyInfo.cs
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\ref\Projeto01Conclusao.dll
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.pdb
+C:\Users\Rafa\Documents\GitHub\EstudosCSharp\Projeto01Conclusao\Projeto01Conclusao\obj\Debug\net6.0\Projeto01Conclusao.genruntimeconfig.cache
